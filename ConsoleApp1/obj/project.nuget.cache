@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "R2LVW3iimBmdXjxU0MRDXO7+U1gMJV0W02ryZK/k5y6WmUT35JrSyvZwepJyY8jwKYX3yfP4kCtECxA+vDTT7A==",
+  "success": true,
+  "projectFilePath": "E:\\Projetos\\Off\\TesteRabbitMq\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Virtus\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\Virtus\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
+    "C:\\Users\\Virtus\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Virtus\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
