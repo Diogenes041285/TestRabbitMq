@@ -1,5 +1,5 @@
 # TestRabbitMq
-Projeto basico para mostrar o envio e busca de mensagens no RabbitMQ
+Console simples para mostrar o envio e busca de mensagens no RabbitMQ
 
 Instalação do Rabbit (windows):
 
