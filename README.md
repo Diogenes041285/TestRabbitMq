@@ -1,11 +1,11 @@
 # TestRabbitMq
 Console simples para mostrar o envio e busca de mensagens no RabbitMQ
 
-Instalação do Rabbit (windows):
+Instalação do RabbitMQ (windows):
 
 https://www.rabbitmq.com/install-windows.html#installer
 
-Erland (pré-requisito):
+Erlang (pré-requisito):
 
 https://erlang.org/download/otp_versions_tree.html
 
